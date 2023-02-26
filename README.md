@@ -4,7 +4,7 @@ This is a project that I used to improve my knowledge in Swift and SwiftUI. The 
 
 ## ScreenShoots
 
-[Click here to see the post on LinkedIn with screenshots and videos of the app in action.]()
+[Click here to see the post on LinkedIn with screenshots and videos of the app in action.](https://www.linkedin.com/posts/olivergabriel_instagram-github-ios-activity-7035697116488380416-31nA?utm_source=share&utm_medium=member_android)
 
 ## Contents
 
